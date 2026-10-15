@@ -42,5 +42,11 @@
 
 Open index.html in a web browser.
 
+**## Project Structure**
 
+**- index.html: Main webpage**
+
+**- style.css: Page styling**
+
+**- README.md: Project documentation**
 
