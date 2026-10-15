@@ -38,3 +38,9 @@
 
 \- GitHub
 
+\## How to Run
+
+Open index.html in a web browser.
+
+
+
