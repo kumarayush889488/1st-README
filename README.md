@@ -28,3 +28,13 @@
 
 # Ayush Kumar
 
+\## Technologies Used
+
+\- HTML
+
+\- CSS
+
+\- Git
+
+\- GitHub
+
